@@ -22,6 +22,31 @@ This is not a real `.jpg` encoder. It does not write a valid JPEG bitstream. The
 - React
 - Vite
 
+## Screenshots
+
+### Compressing image to max extent
+
+![I1](images/sampe1.png)
+
+---
+
+### Data Tables
+
+![I2](images/sample2.png)
+
+---
+
+### Enlarged View
+
+![I3](images/sample3.png)
+
+---
+
+### Filters (Grayscale potrayed)
+
+![I4](images/sample4.png)
+
+
 ## Features
 
 - Upload an image from the browser
